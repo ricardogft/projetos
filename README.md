@@ -13,10 +13,10 @@ Descrição : Projeto iniciado para pratica de codificação em JavaScript;
 # Hunter vs Alien [Alienígena contra Caçador] [Atualizado : Mai/2020]
 
 
-# Layout OnPage [Inicio : Ago/2020]
+# Layout OnePage [Inicio : Ago/2020]
 Descrição : Projeto para aperfeiçoamento de utilização de estilização via CSS3
             com foco em layout responsivo;
-# Layout OnPage [Inicio : Ago/2020]
+# Layout OnePage [Inicio : Ago/2020]
 #######################################################################
   
 
