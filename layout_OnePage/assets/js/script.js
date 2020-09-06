@@ -106,7 +106,7 @@ window.onload = function() {
         reg.appendChild(card);
         card.setAttribute("class", "card");
         card.appendChild(img);
-        img.setAttribute("src", "assets/imagens/imagenss/" + obj.data[pos].imagem);
+        img.setAttribute("src", "assets/imagens/" + obj.data[pos].imagem);
         img.setAttribute("alt", obj.data[pos].titulo);
         card.appendChild(head);
         head.setAttribute("class", "header");
