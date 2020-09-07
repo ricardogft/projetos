@@ -218,39 +218,3 @@ window.onload = function() {
     /////////////////////////////////////
 
 }
-
-
-
-
-/*     const svg = document.createElement("svg");
-    const path = document.createElement("path");
-    const d = document.createElement("div");
-
-    document.body.appendChild(svg);
-    svg.appendChild(path);
-    svg.setAttribute("class", "svg-icon");
-    svg.setAttribute("viewBox", "0 0 20 20");
-    path.setAttribute("d", "M9.719,17.073l-6.562-6.51c-0.27-0.268-0.504-0.567-0.696-0.888C1.385,7.89,1.67,5.613,3.155,4.14c0.864-0.856,2.012-1.329,3.233-1.329c1.924,0,3.115,1.12,3.612,1.752c0.499-0.634,1.689-1.752,3.612-1.752c1.221,0,2.369,0.472,3.233,1.329c1.484,1.473,1.771,3.75,0.693,5.537c-0.19,0.32-0.425,0.618-0.695,0.887l-6.562,6.51C10.125,17.229,9.875,17.229,9.719,17.073 M6.388,3.61C5.379,3.61,4.431,4,3.717,4.707C2.495,5.92,2.259,7.794,3.145,9.265c0.158,0.265,0.351,0.51,0.574,0.731L10,16.228l6.281-6.232c0.224-0.221,0.416-0.466,0.573-0.729c0.887-1.472,0.651-3.346-0.571-4.56C15.57,4,14.621,3.61,13.612,3.61c-1.43,0-2.639,0.786-3.268,1.863c-0.154,0.264-0.536,0.264-0.69,0C9.029,4.397,7.82,3.61,6.388,3.61");
-    return false; 
-    
-            console.log(b[b.length - 1].getBoundingClientRect());
-        console.log(document.body.getBoundingClientRect().height);
-        console.log(b.length - 1);
-        console.log(window.pageYOffset + "px");
-        console.log(window.screen.height + "px");
-        console.log(document.body.scrollHeight + "px");
-
-         newpath = document.createElementNS(document.rootElement.namespaceURI,"path");  
-   newpath.setAttributeNS(null, "id", "pathIdD");  
-   newpath.setAttributeNS(null, "d", "M 1,97.857143 C 19.285714,96.428571 24.016862,131.64801 90.714286,132.85714 140.78762,133.7649 202.79376,66.16041 202.79376,66.16041");  
-   newpath.setAttributeNS(null, "stroke", "black"); 
-   newpath.setAttributeNS(null, "stroke-width", 3);  
-   newpath.setAttributeNS(null, "opacity", 1);  
-   newpath.setAttributeNS(null, "fill", "none");
-   
-   document.rootElement.appendChild(newpath);
-
-   <svg class="svg-icon" viewBox="0 0 20 20">
-	<path d="M17.659,9.597h-1.224c-0.199-3.235-2.797-5.833-6.032-6.033V2.341c0-0.222-0.182-0.403-0.403-0.403S9.597,2.119,9.597,2.341v1.223c-3.235,0.2-5.833,2.798-6.033,6.033H2.341c-0.222,0-0.403,0.182-0.403,0.403s0.182,0.403,0.403,0.403h1.223c0.2,3.235,2.798,5.833,6.033,6.032v1.224c0,0.222,0.182,0.403,0.403,0.403s0.403-0.182,0.403-0.403v-1.224c3.235-0.199,5.833-2.797,6.032-6.032h1.224c0.222,0,0.403-0.182,0.403-0.403S17.881,9.597,17.659,9.597 M14.435,10.403h1.193c-0.198,2.791-2.434,5.026-5.225,5.225v-1.193c0-0.222-0.182-0.403-0.403-0.403s-0.403,0.182-0.403,0.403v1.193c-2.792-0.198-5.027-2.434-5.224-5.225h1.193c0.222,0,0.403-0.182,0.403-0.403S5.787,9.597,5.565,9.597H4.373C4.57,6.805,6.805,4.57,9.597,4.373v1.193c0,0.222,0.182,0.403,0.403,0.403s0.403-0.182,0.403-0.403V4.373c2.791,0.197,5.026,2.433,5.225,5.224h-1.193c-0.222,0-0.403,0.182-0.403,0.403S14.213,10.403,14.435,10.403"></path>
-						</svg>
-    */

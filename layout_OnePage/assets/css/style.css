@@ -4,27 +4,6 @@ Tablet	768px
 Desktop	1024px
 */
 
-
-/* -----
-SVG Icons - svgicons.sparkk.fr
------ */
-
-.svg-icon {
-    width: 1em;
-    height: 1em;
-}
-
-.svg-icon path,
-.svg-icon polygon,
-.svg-icon rect {
-    fill: #ffffff;
-}
-
-.svg-icon circle {
-    stroke: #ffffff;
-    stroke-width: 1;
-}
-
 *,
 *::before,
 *::after {
@@ -458,3 +437,28 @@ header>span {
 
 
 /* #################################### CARD ################################################### */
+
+
+/*##############################################################################################*/
+
+
+/* ----- SVG Icons - svgicons.sparkk.fr ----- */
+
+.svg-icon {
+    width: 1em;
+    height: 1em;
+}
+
+.svg-icon path,
+.svg-icon polygon,
+.svg-icon rect {
+    fill: #ffffff;
+}
+
+.svg-icon circle {
+    stroke: #ffffff;
+    stroke-width: 1;
+}
+
+
+/*#############################################################################################*/
