@@ -39,6 +39,12 @@ header>h2 {
     font-size: 1.2rem;
 }
 
+.title {
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 
 /*                                                  */
 
@@ -52,11 +58,6 @@ header>h2 {
         grid-column: 1 / span 1;
     }
     /*////////////////////////////////////////////*/
-    .title {
-        text-align: center;
-        color: white;
-        font-family: Arial, Helvetica, sans-serif;
-    }
     .head-title {
         background-color: rgba(243, 213, 70, 1);
         position: sticky;
@@ -112,11 +113,6 @@ header>h2 {
         grid-column: 1 / span 2;
     }
     /*////////////////////////////////////////////*/
-    .title {
-        text-align: center;
-        color: white;
-        font-family: Arial, Helvetica, sans-serif;
-    }
     .head-title {
         background-color: rgba(243, 213, 70, 1);
         position: sticky;
@@ -171,11 +167,6 @@ header>h2 {
     header>h2 {
         margin-inline-start: 1vw;
         margin-inline-end: 1vw;
-    }
-    .title {
-        text-align: center;
-        color: white;
-        font-family: Arial, Helvetica, sans-serif;
     }
     .head-title {
         background-color: rgba(243, 213, 70, 1);
